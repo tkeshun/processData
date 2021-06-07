@@ -6,13 +6,13 @@ Goで読み込んだファイルの各行を並列に処理する。各行はSHA
 
 `filePath`で読み込みファイルのパスを指定する
 
-- コンパイル方法
+## コンパイル方法
 
 ```
 $ go build -o processData
 ```
 
-- 実行方法
+## 実行方法
 
 ```
 $ ./processData -filePath ./data.txt 
