@@ -1,0 +1,1 @@
+The design is Unix-like, although the error handling is Go-like; failing calls return values of type error rather than error numbers.

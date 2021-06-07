@@ -1,0 +1,1 @@
+The os interface is intended to be uniform across all operating systems.

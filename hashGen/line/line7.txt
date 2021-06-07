@@ -1,0 +1,1 @@
+Here is a simple example, opening a file and reading some of it.
